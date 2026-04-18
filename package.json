@@ -1,0 +1,8 @@
+{
+  "name": "remsleep-dashboard",
+  "version": "1.0.0",
+  "description": "REMsleep SEO & Digital Marketing Dashboard",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
